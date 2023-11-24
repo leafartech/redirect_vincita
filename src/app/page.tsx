@@ -39,7 +39,7 @@ export default function Home() {
 
   if (barStyle.width === '100%') {
     setTimeout(() => {
-      router.push('https://chat.whatsapp.com/Dd0fyxMeMgvITeLQscxdg3')
+      router.push('https://chat.whatsapp.com/Ha329jTSp9gF2o5w15gUKo')
     }, 500)
   }
 
